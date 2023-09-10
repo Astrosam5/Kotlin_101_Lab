@@ -11,6 +11,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="squareup.retrofit2.retrofit" level="project" />
+    <orderEntry type="library" name="squareup.retrofit2.converter.jackson" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="70007b27-9054-41c7-8494-6204e5456d20" />
